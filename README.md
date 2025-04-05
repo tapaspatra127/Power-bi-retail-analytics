@@ -14,7 +14,7 @@ This project analyzes customer behavior, product performance, and sales trends u
 - DAX (Data Analysis Expressions)
 
 ## 📁 Files
-- `RetailAnalytics.pbix` – Power BI report
+- `project data.pbix` – Power BI report
 - `CustomerData.xlsx` – Sample dataset
 - `DashboardPreview.png` – Dashboard screenshot
 - `RetailReport.pdf` – Summary report
