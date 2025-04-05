@@ -1,0 +1,400 @@
+rowa-cid,cname,segment,city,state,country,gender
+CUST1000,Theresa Murillo,VIP,Pamelashire,New Hampshire,India,Female
+CUST1001,Christopher Conner,Premium,Romeroshire,Utah,India,Other
+CUST1002,Patricia Foster,Regular,East Lynn,Maine,India,Other
+CUST1003,Angela Farley,VIP,North Kellimouth,New Mexico,India,Female
+CUST1004,Andrew Bryant,Premium,Ortizport,New Hampshire,India,Female
+CUST1005,Cathy Mendoza,VIP,Garciaville,North Dakota,India,Male
+CUST1006,Elizabeth Nguyen,Regular,Cainberg,Rhode Island,India,Male
+CUST1007,Trevor Garcia,Regular,Heatherstad,Iowa,India,Male
+CUST1008,Phillip Myers,Premium,New Donnashire,Vermont,India,Male
+CUST1009,Angie Rodriguez,Premium,East Josephville,Washington,India,Female
+CUST1010,Patricia Stein,Premium,Harrellfurt,Mississippi,India,Female
+CUST1011,Vanessa Gonzalez,Premium,East Michaelland,Hawaii,India,Female
+CUST1012,Shannon Jefferson,Regular,Johnsonchester,New Mexico,India,Other
+CUST1013,Anthony Murphy,Regular,Crystalhaven,New Hampshire,India,Female
+CUST1014,Jeffrey Clarke,Premium,South Jeffreyburgh,Maryland,India,Female
+CUST1015,Jennifer Johnson,Premium,Cannonhaven,Connecticut,India,Male
+CUST1016,Amanda Sherman,VIP,Bowersland,Kentucky,India,Other
+CUST1017,Heather Wagner,Premium,Port John,New York,India,Other
+CUST1018,Mary Baker,VIP,New Cody,New Jersey,India,Female
+CUST1019,William Wilson,Regular,North Jason,New Hampshire,India,Female
+CUST1020,Amy Walker,Regular,Jonesport,Utah,India,Male
+CUST1021,Jeffrey Barron,Premium,Richardsbury,Maine,India,Male
+CUST1022,Timothy Franklin,VIP,North Julie,Maine,India,Female
+CUST1023,Emily Powell,VIP,Samuelbury,Rhode Island,India,Male
+CUST1024,Sandra Patrick,VIP,Mckenzieburgh,Oklahoma,India,Male
+CUST1025,Shawn Estrada,Premium,Ruthbury,California,India,Male
+CUST1026,Scott Roberts DDS,Premium,Port Barryfort,Missouri,India,Male
+CUST1027,Troy Smith,VIP,Leslietown,Connecticut,India,Other
+CUST1028,Heather Martinez,Premium,North Elizabeth,Arkansas,India,Male
+CUST1029,Jeffrey Summers,Premium,East Sarah,Michigan,India,Female
+CUST1030,Ashley Garrison,VIP,West Chelseaville,Massachusetts,India,Male
+CUST1031,Dr. Angela Garcia,Premium,North Michaelaborough,Wisconsin,India,Male
+CUST1032,Karl Gill,VIP,Millerbury,North Carolina,India,Other
+CUST1033,Larry Thomas,Premium,Barnesshire,Arizona,India,Female
+CUST1034,Stephanie Williams,Premium,Burkeport,Hawaii,India,Other
+CUST1035,David Roach,Regular,Bradystad,Indiana,India,Female
+CUST1036,Melissa Cooper,VIP,Lake Dawn,Wisconsin,India,Female
+CUST1037,Christopher Adams,VIP,Port Michaelmouth,New Mexico,India,Male
+CUST1038,Samantha Decker,VIP,New Kelsey,New Mexico,India,Other
+CUST1039,Olivia Burns,VIP,New Charleston,Connecticut,India,Other
+CUST1040,Donna Garcia,Premium,Riveraberg,Alaska,India,Male
+CUST1041,Nicole Lara,Premium,South Dianeview,Minnesota,India,Female
+CUST1042,Sean Lawrence,Premium,Donnachester,Rhode Island,India,Female
+CUST1043,Meagan Hughes,Regular,South Joseph,Oregon,India,Male
+CUST1044,Janice Johnson,VIP,South Tashastad,Minnesota,India,Male
+CUST1045,Christopher Williamson,Premium,Jeremyborough,Tennessee,India,Female
+CUST1046,Sharon Key,Premium,Williamsburgh,Indiana,India,Male
+CUST1047,Mr. Brian Ramos,Regular,Nicholsmouth,Kentucky,India,Other
+CUST1048,Benjamin Melton,VIP,North Adamside,Utah,India,Other
+CUST1049,Dana Murphy,Premium,South Danaville,Nevada,India,Female
+CUST1050,Nicholas Price,VIP,Lake Troy,Nebraska,India,Male
+CUST1051,Jessica Mclaughlin,Regular,East Jackie,New Hampshire,India,Female
+CUST1052,Jeremy Anderson,VIP,East Williammouth,Massachusetts,India,Male
+CUST1053,Megan Christensen,VIP,East Jennifertown,Michigan,India,Other
+CUST1054,Jane Hernandez,Regular,Brownside,Michigan,India,Female
+CUST1055,Whitney Wall,Premium,West Kennethville,West Virginia,India,Other
+CUST1056,Daniel Nelson,VIP,South Timview,Arizona,India,Male
+CUST1057,Kimberly Allen,Regular,Joshuaborough,Kentucky,India,Male
+CUST1058,Kenneth Norton,VIP,West Melanie,Virginia,India,Male
+CUST1059,Mandy Martin,Regular,South Rebeccafurt,North Dakota,India,Female
+CUST1060,Nicholas Herrera PhD,Regular,East Kristine,Kansas,India,Female
+CUST1061,William Nguyen,Premium,East Jeffrey,Missouri,India,Other
+CUST1062,Jessica Wagner,Regular,Scottland,Connecticut,India,Female
+CUST1063,Allison Ford,Regular,West Christopherview,Florida,India,Male
+CUST1064,Samuel Bennett,VIP,Grayton,New Hampshire,India,Male
+CUST1065,John Delgado,VIP,Edwardburgh,Kentucky,India,Male
+CUST1066,David Potts,VIP,Monicaborough,West Virginia,India,Male
+CUST1067,April Burns,VIP,East Nicholas,Iowa,India,Other
+CUST1068,John Alexander,Premium,Williamport,Idaho,India,Other
+CUST1069,Jamie Alexander,Premium,Joanneland,South Dakota,India,Other
+CUST1070,William Cross,VIP,North Kimberly,Illinois,India,Female
+CUST1071,Stacey Horne,Regular,North Pamelaburgh,North Dakota,India,Other
+CUST1072,Courtney Santos,VIP,West Reginaland,Tennessee,India,Other
+CUST1073,John Walker,Premium,Port Gregory,Virginia,India,Male
+CUST1074,Anna Parsons,Premium,Port Joelfurt,Maryland,India,Female
+CUST1075,Chelsea Smith,Regular,Lake Scott,Florida,India,Female
+CUST1076,Ryan Jackson,Premium,Mcdonaldville,Alaska,India,Male
+CUST1077,Daniel Park,Premium,Barrettburgh,Kansas,India,Female
+CUST1078,Shawn Allen,VIP,West Shawn,South Dakota,India,Male
+CUST1079,Allison Stuart,Premium,South Morgan,Pennsylvania,India,Male
+CUST1080,Larry Carter,Premium,Lake Charlene,Wyoming,India,Other
+CUST1081,William Smith,Premium,Allenville,Wisconsin,India,Female
+CUST1082,Jasmine Taylor,VIP,Kellymouth,Alaska,India,Female
+CUST1083,Kayla Simmons,Premium,Bryantfurt,Massachusetts,India,Other
+CUST1084,Ryan Little,Regular,Stricklandfort,Arizona,India,Male
+CUST1085,Kelly Choi,Regular,South Kaylaport,New York,India,Other
+CUST1086,Cindy Watkins,VIP,Lake Christopher,Texas,India,Other
+CUST1087,Michael Chang,VIP,New Sharonborough,Kentucky,India,Female
+CUST1088,Matthew Mcdonald,Premium,Katelynberg,Colorado,India,Male
+CUST1089,Heather Harris,Regular,Ashleystad,Georgia,India,Female
+CUST1090,Robert Woods,Premium,Glendaside,Montana,India,Other
+CUST1091,David Garcia,Regular,Lake Christophermouth,Colorado,India,Male
+CUST1092,Daniel Harrison,Premium,North Theresa,California,India,Female
+CUST1093,Corey Patrick,VIP,Lake Stephen,South Dakota,India,Other
+CUST1094,Wendy Hartman,VIP,Port Lisaside,New Jersey,India,Male
+CUST1095,Stephen Williams,Premium,New Tanner,Wisconsin,India,Female
+CUST1096,Emily Peters,Premium,Carmentown,Illinois,India,Other
+CUST1097,Beverly Thomas,Premium,Lake Richardton,Idaho,India,Male
+CUST1098,Dean Turner,VIP,West Melanie,New Jersey,India,Other
+CUST1099,Michael Kelly,Regular,North Brandon,Mississippi,India,Female
+CUST1100,Kristina Freeman,VIP,Clarkeburgh,North Carolina,India,Male
+CUST1101,Cory Carpenter,Regular,New Brentmouth,New Mexico,India,Male
+CUST1102,Jessica Pierce,VIP,Robertfurt,Colorado,India,Other
+CUST1103,Kelsey Hebert,Premium,Annettechester,Louisiana,India,Other
+CUST1104,Sandra Grant,Regular,Lake James,Colorado,India,Other
+CUST1105,Donald Reid,Regular,Johnsonborough,Virginia,India,Other
+CUST1106,Daniel Shea,Regular,Port Ashley,Delaware,India,Female
+CUST1107,Jamie Lowe,Premium,West Edwardland,Alabama,India,Other
+CUST1108,Danielle Hernandez,Premium,Port Kimberlyshire,Pennsylvania,India,Male
+CUST1109,April Jones,Regular,Roberthaven,Illinois,India,Other
+CUST1110,Jonathan Powell,Regular,Port Jennifer,South Carolina,India,Female
+CUST1111,Jeremy Johnson,Regular,Port Joelland,Delaware,India,Female
+CUST1112,Nathaniel Lamb,Regular,Joyport,Kentucky,India,Female
+CUST1113,Kristen Carey,Premium,North Maria,Nevada,India,Other
+CUST1114,Lori Schultz,VIP,Johnsonland,Vermont,India,Female
+CUST1115,Jeremy Anderson,Regular,New Lesliestad,New York,India,Female
+CUST1116,Jeanette Peterson,VIP,Angelaville,Minnesota,India,Male
+CUST1117,Troy Flynn,VIP,Kevinshire,Virginia,India,Other
+CUST1118,Todd Parker,Premium,Palmershire,Washington,India,Male
+CUST1119,Savannah Waters,VIP,Estradaton,West Virginia,India,Female
+CUST1120,Beverly Graham,Regular,North Victoriatown,Missouri,India,Female
+CUST1121,Andrea Carter,Regular,Robinsonview,Vermont,India,Other
+CUST1122,Linda Wong,Regular,Johnsonville,Nebraska,India,Other
+CUST1123,Sarah Hernandez,VIP,Lake Megan,Connecticut,India,Female
+CUST1124,Joshua Luna,VIP,East Tammy,Alabama,India,Male
+CUST1125,Jonathan Davila,VIP,West Kathleen,Oklahoma,India,Other
+CUST1126,Zachary Bradley,Regular,New Alexander,Louisiana,India,Other
+CUST1127,Derrick Willis,Premium,Campbellhaven,Utah,India,Other
+CUST1128,Amy Brown,VIP,Goodmanchester,North Carolina,India,Female
+CUST1129,Peter Ponce,Regular,South Jerryborough,Oklahoma,India,Male
+CUST1130,Christopher Duran,VIP,Jamesside,Washington,India,Other
+CUST1131,Julia Hutchinson,Premium,Johnsonborough,Delaware,India,Female
+CUST1132,Caroline Gonzales,Premium,Adamsborough,Louisiana,India,Female
+CUST1133,Jennifer Rubio,VIP,East Denise,New Jersey,India,Other
+CUST1134,William Rose,VIP,Janettown,Washington,India,Other
+CUST1135,Larry Sharp,Premium,Carlaville,New Hampshire,India,Male
+CUST1136,Todd King,Regular,New Shawnberg,New Jersey,India,Female
+CUST1137,Megan Perez,VIP,Port Patrick,Massachusetts,India,Female
+CUST1138,Breanna Nguyen,Regular,North Jeanfort,Indiana,India,Female
+CUST1139,Catherine Christian,VIP,Port Marvinside,Tennessee,India,Other
+CUST1140,Thomas Simpson,VIP,Christopherhaven,Nebraska,India,Male
+CUST1141,Ashley Shepherd,Premium,Stevensburgh,Maryland,India,Female
+CUST1142,Gabriel Deleon,VIP,South Edward,Hawaii,India,Female
+CUST1143,Nicole Jordan,Premium,Walshchester,Florida,India,Other
+CUST1144,Megan Jenkins,Premium,New Richardshire,Montana,India,Other
+CUST1145,Donna Ramsey,VIP,Port Joshua,Delaware,India,Other
+CUST1146,Robert Knight,Premium,Caseyport,Iowa,India,Female
+CUST1147,Johnny Villarreal,VIP,Joshuabury,Maryland,India,Male
+CUST1148,Nancy Davila,Premium,Devonstad,Nevada,India,Other
+CUST1149,Adrian Lawson,Premium,East Tim,Kentucky,India,Other
+CUST1150,Katherine Armstrong,Premium,Michaelberg,Maryland,India,Other
+CUST1151,Kimberly Miller,VIP,Garciabury,North Carolina,India,Female
+CUST1152,Jacob Hampton,Regular,Stoneland,Iowa,India,Female
+CUST1153,Allison Stewart,VIP,Lake Theresa,Mississippi,India,Female
+CUST1154,Rose Soto,Regular,Sherrybury,Indiana,India,Other
+CUST1155,Alexander Giles,VIP,Port Alex,Utah,India,Other
+CUST1156,Colton Fitzgerald,Premium,New Rebecca,New Hampshire,India,Other
+CUST1157,Natalie David,Premium,Cordovamouth,Vermont,India,Other
+CUST1158,Justin Jennings,VIP,West Gabrielastad,Utah,India,Female
+CUST1159,Kathryn Sanchez,Regular,South Sarahfurt,West Virginia,India,Female
+CUST1160,Jimmy Zuniga,Regular,Juanstad,New Jersey,India,Other
+CUST1161,Ryan Park,Premium,New Michealmouth,New Jersey,India,Male
+CUST1162,Debra Smith,VIP,New Eric,Idaho,India,Female
+CUST1163,Michael Moody,Regular,Moniqueborough,Kentucky,India,Male
+CUST1164,Blake Parsons,Premium,North Amber,Michigan,India,Other
+CUST1165,Matthew Lyons,VIP,South Kristina,Idaho,India,Other
+CUST1166,Beverly Smith,VIP,Port Christinaburgh,North Carolina,India,Male
+CUST1167,Patricia Palmer,VIP,West Brian,Idaho,India,Female
+CUST1168,William Decker,VIP,Markshire,New Mexico,India,Other
+CUST1169,Emily Taylor,Premium,Port Brianborough,Kansas,India,Other
+CUST1170,Jennifer Douglas,Regular,Lukeburgh,Utah,India,Female
+CUST1171,Chelsea Johnston,Premium,Mariahchester,Wyoming,India,Male
+CUST1172,Luis Norris,VIP,Pettyside,West Virginia,India,Male
+CUST1173,David Franklin,Premium,East Richardshire,Tennessee,India,Female
+CUST1174,Lisa Wood,VIP,Ashleyberg,Wisconsin,India,Male
+CUST1175,Richard Howard,Regular,West Oscarhaven,Massachusetts,India,Male
+CUST1176,Corey Howe,Regular,Port Aaronberg,Oregon,India,Female
+CUST1177,Alison Rivera,VIP,East Rebeccafurt,Ohio,India,Other
+CUST1178,Victoria Ruiz,Regular,Angelaton,Arizona,India,Other
+CUST1179,William Burton,VIP,South Jamesside,California,India,Male
+CUST1180,Eric Carlson,Regular,Thompsonfort,Delaware,India,Other
+CUST1181,Ricardo Griffin,VIP,South Wyattborough,Indiana,India,Female
+CUST1182,Heather Gallegos,VIP,Port Jorge,Oklahoma,India,Female
+CUST1183,John Gibson,Regular,Ortizhaven,Idaho,India,Other
+CUST1184,Kristen Floyd,Regular,Adamside,Nevada,India,Female
+CUST1185,Mark Evans,Regular,Lake Erinview,Illinois,India,Other
+CUST1186,Holly Miller,Premium,East Shanetown,Kentucky,India,Other
+CUST1187,Juan Perez,VIP,North Robert,New Mexico,India,Male
+CUST1188,Pamela Jackson,Regular,West Kathleen,Maryland,India,Other
+CUST1189,Miss Patricia Miller,Regular,New Justinport,Oklahoma,India,Other
+CUST1190,Daniel Walsh,Premium,West Jackstad,North Dakota,India,Other
+CUST1191,Jose Norman,Premium,North Reneeton,Utah,India,Other
+CUST1192,Carlos Armstrong,VIP,West Rogerborough,South Carolina,India,Other
+CUST1193,Edward Walton,Regular,New Melissatown,Wyoming,India,Male
+CUST1194,Stephen Gonzalez,Regular,North Amandashire,New Jersey,India,Male
+CUST1195,Victor Phillips,VIP,Michaelburgh,Georgia,India,Other
+CUST1196,Matthew Fleming,VIP,Port Lauraville,Texas,India,Female
+CUST1197,Bradley Turner,Premium,Sharonland,Wisconsin,India,Other
+CUST1198,Eric Richard,Regular,Sarahhaven,South Dakota,India,Male
+CUST1199,Dr. Amanda Cabrera DDS,Regular,New Phillip,Alabama,India,Male
+CUST1200,Charles Hancock,Regular,South Eric,New York,India,Female
+CUST1201,Phyllis Smith,Premium,East Patrickshire,Michigan,India,Female
+CUST1202,Justin Campbell,VIP,Joneschester,Connecticut,India,Other
+CUST1203,Kimberly Hunt,Premium,Deborahborough,Massachusetts,India,Male
+CUST1204,Vicki Young,VIP,North Coryport,Pennsylvania,India,Other
+CUST1205,Justin Perez,Premium,East Amberton,Oklahoma,India,Male
+CUST1206,Leslie Reed,Regular,North Jodiburgh,New Jersey,India,Male
+CUST1207,Gabriel Cooley,Premium,Jerryfurt,Utah,India,Female
+CUST1208,Jeffrey Flores,Premium,North Calebtown,Utah,India,Female
+CUST1209,Jennifer Barnes,Regular,Swansonton,Wisconsin,India,Male
+CUST1210,Anthony Price,VIP,Port Brentchester,Oregon,India,Other
+CUST1211,Austin Meyer,Premium,South Christopherland,Vermont,India,Female
+CUST1212,Alexandra Neal,Premium,Russellborough,California,India,Other
+CUST1213,Travis Acosta,VIP,Lindseyberg,Kentucky,India,Male
+CUST1214,Robert Melendez,VIP,Sheaville,Tennessee,India,Other
+CUST1215,Stephanie Dorsey,VIP,Michaelbury,Nevada,India,Other
+CUST1216,Brianna Duncan,Premium,North Julie,Wyoming,India,Male
+CUST1217,Joseph Gonzalez,VIP,New Laura,Oklahoma,India,Other
+CUST1218,David Stephens II,Regular,North Rebeccafurt,Iowa,India,Male
+CUST1219,Julie Garcia,VIP,Clarkhaven,Tennessee,India,Female
+CUST1220,Dr. Nicholas Murphy,Regular,Joshuashire,North Carolina,India,Female
+CUST1221,Christina Thomas,Premium,Lake Melanie,Maryland,India,Other
+CUST1222,Deborah Aguilar,VIP,Hooperville,California,India,Female
+CUST1223,James Bell,Regular,Port Davidhaven,California,India,Other
+CUST1224,Tanya Burke,Regular,North Madeline,Pennsylvania,India,Female
+CUST1225,Michael Johnson,VIP,Wilsonport,Colorado,India,Male
+CUST1226,Carol Davenport,Premium,North Isabella,South Carolina,India,Other
+CUST1227,Robert Morgan,Regular,East Richardchester,Hawaii,India,Female
+CUST1228,Amy Bradshaw,Premium,Danielsside,Delaware,India,Male
+CUST1229,Kelly Miller,Premium,Rebekahland,Michigan,India,Other
+CUST1230,Sabrina Shepard,Premium,Rhondahaven,New Hampshire,India,Male
+CUST1231,Nathan Webb,VIP,Popeton,California,India,Other
+CUST1232,Andrew Reed,VIP,Charlesburgh,South Dakota,India,Female
+CUST1233,Hector Myers,Regular,West Cassandra,Oklahoma,India,Other
+CUST1234,Amanda Lutz,VIP,Greenhaven,Wyoming,India,Male
+CUST1235,Kathleen Best,VIP,Coryport,Kansas,India,Male
+CUST1236,Cassandra Fry,Premium,Whitestad,Ohio,India,Female
+CUST1237,Bonnie Jones,Regular,South John,Tennessee,India,Male
+CUST1238,Melissa Wiley,VIP,Jacksonborough,Pennsylvania,India,Female
+CUST1239,Lorraine Wells,Premium,North Patriciahaven,West Virginia,India,Male
+CUST1240,Tanner Smith,Regular,Lake Josephland,North Carolina,India,Male
+CUST1241,Kathleen Nelson,Regular,Port Frank,North Carolina,India,Other
+CUST1242,Monica Bowman,VIP,Joelbury,Washington,India,Other
+CUST1243,Kristy Ware,VIP,Michaelbury,New York,India,Male
+CUST1244,Lisa Chen,VIP,Jimenezchester,Connecticut,India,Other
+CUST1245,Grant Evans,Premium,Rogerstown,Texas,India,Other
+CUST1246,Jennifer Young,Regular,West Joannefurt,Kansas,India,Other
+CUST1247,Marissa Carpenter,Regular,Ryanhaven,Vermont,India,Other
+CUST1248,Ryan White,Premium,Lake Danielshire,Utah,India,Other
+CUST1249,Billy Flores,VIP,Jamestown,Kansas,India,Female
+CUST1250,Joseph Delacruz,Regular,West Christopher,Michigan,India,Male
+CUST1251,Linda Grimes,VIP,Timothyton,Kansas,India,Other
+CUST1252,Joseph Jones,VIP,Carrshire,Oregon,India,Male
+CUST1253,Christina Rogers,Regular,Jennifermouth,North Carolina,India,Female
+CUST1254,Michael Summers,Regular,Hickston,Wyoming,India,Male
+CUST1255,Catherine Kelly,Premium,Maureenberg,Virginia,India,Female
+CUST1256,James Price,Premium,Chenbury,Illinois,India,Male
+CUST1257,Linda Gibbs,VIP,West Ryan,Alaska,India,Male
+CUST1258,Ian Ballard,Regular,Carlburgh,Georgia,India,Other
+CUST1259,Rachel White,Premium,East Stevenhaven,Nevada,India,Male
+CUST1260,Jeff Griffin,VIP,West Kennethhaven,Nebraska,India,Male
+CUST1261,William Mcclure,VIP,New Maryhaven,Iowa,India,Female
+CUST1262,Michael Gonzales,Premium,Howardmouth,Hawaii,India,Other
+CUST1263,Felicia Castillo,Premium,Hughesburgh,Mississippi,India,Female
+CUST1264,Kristen Spence,VIP,New John,New Mexico,India,Male
+CUST1265,Tracy Thomas,Regular,Susanport,Kentucky,India,Female
+CUST1266,Ashley Cruz,VIP,Joeburgh,Virginia,India,Female
+CUST1267,Jason Poole,Premium,Lake John,West Virginia,India,Other
+CUST1268,Stacey Moore,Premium,Ashleyberg,Tennessee,India,Other
+CUST1269,Elizabeth Jimenez,Premium,North Daisytown,Montana,India,Male
+CUST1270,Jason Smith,Premium,Adamside,Pennsylvania,India,Male
+CUST1271,Susan Patterson,Regular,East Phillip,Montana,India,Other
+CUST1272,Brandon Spencer,Regular,North Lauren,Alaska,India,Other
+CUST1273,Rebecca Stone,Premium,Greeneshire,North Carolina,India,Other
+CUST1274,Dr. Carolyn Costa,VIP,East Justinland,Alabama,India,Male
+CUST1275,Kristina Mccoy,Premium,East Richard,Delaware,India,Male
+CUST1276,Monica Everett,VIP,South Thomasberg,Maryland,India,Other
+CUST1277,Thomas Anderson,Premium,Tonyahaven,New Jersey,India,Male
+CUST1278,Kim Schmidt,Premium,North Edward,Hawaii,India,Female
+CUST1279,Thomas Harris,Premium,Bartonhaven,Delaware,India,Other
+CUST1280,Christopher Brown,Premium,Ginafort,Wisconsin,India,Male
+CUST1281,Dawn Garcia,Premium,East Michael,Alaska,India,Female
+CUST1282,Kyle Crosby,Premium,Lake Patricia,Iowa,India,Other
+CUST1283,Mark Kelley,Premium,Bartonville,Alabama,India,Other
+CUST1284,Gary Gross,Regular,Lindseyberg,Hawaii,India,Other
+CUST1285,John Johnson,VIP,Bruceshire,Maryland,India,Other
+CUST1286,Joseph James,VIP,Lowemouth,Nebraska,India,Other
+CUST1287,Alexis Fox,VIP,Port Jodi,Wisconsin,India,Female
+CUST1288,Michael Hunt,Regular,Tylerville,Michigan,India,Other
+CUST1289,William Brown,Regular,North Peterchester,Colorado,India,Female
+CUST1290,Ronald Baker,Regular,West Evanmouth,Alaska,India,Female
+CUST1291,Frank Garcia,Premium,West Alecfurt,North Carolina,India,Female
+CUST1292,Elizabeth Williams,Regular,New Marie,Vermont,India,Male
+CUST1293,Jessica Macdonald,VIP,Riceburgh,Nevada,India,Female
+CUST1294,Natalie Schneider,VIP,Jonestown,Florida,India,Female
+CUST1295,April Carr,Regular,South Steven,California,India,Male
+CUST1296,Stephen Smith,Premium,Timothybury,Kansas,India,Female
+CUST1297,Jasmine Bryant,VIP,Port Tracifurt,South Dakota,India,Female
+CUST1298,Robert Jacobs,Premium,West Wesley,Arizona,India,Female
+CUST1299,Karen Robertson,Regular,Lake Ericberg,Michigan,India,Other
+CUST1300,Emily Dyer,Regular,New Alexander,North Carolina,India,Female
+CUST1301,Michael Ellis,VIP,West Ashley,Georgia,India,Male
+CUST1302,Matthew Smith,Premium,Ericville,Iowa,India,Male
+CUST1303,Ms. Emily Neal,Regular,Moniquestad,Minnesota,India,Female
+CUST1304,Christine Kaiser,Regular,Lake Ryan,Idaho,India,Other
+CUST1305,Carrie Howard,Regular,Sandersfort,Indiana,India,Other
+CUST1306,Pamela Sparks,VIP,Port George,Arizona,India,Other
+CUST1307,Maria Wells,VIP,East Dennis,Alaska,India,Other
+CUST1308,Dr. Christopher Smith,Regular,Melindaport,Colorado,India,Male
+CUST1309,Benjamin Morales,Premium,East Juliatown,New York,India,Male
+CUST1310,Michaela Perez,Regular,Tinafort,Indiana,India,Female
+CUST1311,Brittany Fernandez,Regular,Michaeltown,Florida,India,Other
+CUST1312,Michele Harrington,Regular,Burnettview,Vermont,India,Female
+CUST1313,Robert Edwards,Regular,Morganchester,New York,India,Other
+CUST1314,Kenneth Simmons,VIP,Christopherfort,Florida,India,Other
+CUST1315,Bryce Sullivan,Premium,Lake Taramouth,Pennsylvania,India,Female
+CUST1316,Alan Brown MD,Regular,Davenportland,Georgia,India,Other
+CUST1317,John Sanders,VIP,North Brookeview,Nevada,India,Female
+CUST1318,Kelly Carpenter,VIP,Sarahaven,Indiana,India,Other
+CUST1319,Sara Allen,Regular,East Corey,Washington,India,Female
+CUST1320,David Jackson,Premium,Danielsbury,Kentucky,India,Female
+CUST1321,Jeffrey Juarez,VIP,New Susan,South Dakota,India,Other
+CUST1322,Edward Mccullough,Premium,Lake Chad,Nevada,India,Female
+CUST1323,Michelle Santana,Premium,New Debraberg,Pennsylvania,India,Male
+CUST1324,Debbie Mckinney,Premium,North Melissaberg,Kentucky,India,Other
+CUST1325,Jessica Pena,Regular,Stoutstad,Michigan,India,Male
+CUST1326,Holly Ho,VIP,South Michael,Oregon,India,Female
+CUST1327,Melissa Monroe,VIP,Villarrealland,Illinois,India,Female
+CUST1328,Nicholas Benitez,VIP,West Austinland,Wisconsin,India,Female
+CUST1329,Christopher Jackson,Regular,New Lonnie,Hawaii,India,Male
+CUST1330,Steven Lewis,VIP,North Jonathan,Michigan,India,Female
+CUST1331,Annette West,Premium,South Randall,Maryland,India,Female
+CUST1332,Janice Hunter,VIP,Port Charlesbury,Virginia,India,Male
+CUST1333,Patricia Jones,Premium,Woodsfurt,Vermont,India,Male
+CUST1334,Brandon Becker,Premium,Justinville,Illinois,India,Male
+CUST1335,Heidi Brown,VIP,West Jenniferville,Wyoming,India,Male
+CUST1336,Donald Patton,Regular,Donaldchester,Montana,India,Other
+CUST1337,Colleen Vaughn,Regular,Cherrymouth,Wisconsin,India,Female
+CUST1338,David Garner,Regular,Haleland,Washington,India,Male
+CUST1339,Brian Clarke,Regular,Terryfurt,Utah,India,Other
+CUST1340,Scott Baldwin,VIP,North Kristinton,Minnesota,India,Male
+CUST1341,Deanna Valenzuela,VIP,Lake Jasonhaven,California,India,Female
+CUST1342,Leonard Brown,VIP,West Tammy,South Dakota,India,Male
+CUST1343,Kimberly Brown,Regular,Michaelstad,California,India,Male
+CUST1344,Nicole Hernandez,Regular,North Steven,Missouri,India,Other
+CUST1345,Patricia Mclaughlin,Regular,South Davidland,Ohio,India,Other
+CUST1346,Megan Daniel,VIP,Watsonburgh,Connecticut,India,Other
+CUST1347,Brian Mclaughlin,Regular,Jillport,West Virginia,India,Male
+CUST1348,Haley Lindsey,Premium,South Travis,New Jersey,India,Male
+CUST1349,Tiffany Crosby,Premium,Larryburgh,New Hampshire,India,Other
+CUST1350,Sherry Mason,VIP,Hamiltonville,Wyoming,India,Female
+CUST1351,Keith Salazar,Regular,New Gregbury,Missouri,India,Female
+CUST1352,Thomas Davis,Premium,Donnaside,Hawaii,India,Other
+CUST1353,Vincent Branch,VIP,Port Richard,Michigan,India,Male
+CUST1354,Steve James,VIP,North Jamesburgh,Alabama,India,Other
+CUST1355,Michael Barry II,Premium,North Johnton,Kansas,India,Female
+CUST1356,Amanda Perez,Regular,New Stephanie,Arizona,India,Female
+CUST1357,Dorothy Brown,Premium,Hooverton,Oklahoma,India,Male
+CUST1358,Daniel Adams,Premium,East Jessicamouth,Idaho,India,Male
+CUST1359,Janet Gardner,VIP,North Williamburgh,Arizona,India,Other
+CUST1360,Samantha Adams,Regular,Erinshire,Kansas,India,Female
+CUST1361,Neil Benton,VIP,Kimberlyland,Ohio,India,Other
+CUST1362,Joseph Alvarado,VIP,East Crystalport,Arizona,India,Male
+CUST1363,Ariel Simmons DVM,VIP,Obrienville,Virginia,India,Male
+CUST1364,Erica Jones,Regular,Christopherville,New Mexico,India,Male
+CUST1365,Maria Scott,Regular,Jackberg,Alaska,India,Female
+CUST1366,Jeffery Scott,VIP,Murphyport,Massachusetts,India,Female
+CUST1367,Carolyn Boyer,VIP,East Rachel,Wisconsin,India,Male
+CUST1368,Latoya Young,VIP,West Amber,Kentucky,India,Female
+CUST1369,Miguel Mann,Premium,South Paul,Minnesota,India,Female
+CUST1370,Christopher Warren,Regular,Newmanfort,Michigan,India,Male
+CUST1371,John Cobb,Regular,Jessicaburgh,Tennessee,India,Female
+CUST1372,Herbert Haynes,VIP,Port Marytown,West Virginia,India,Other
+CUST1373,Andrew Lowe,VIP,Pattonport,New Mexico,India,Female
+CUST1374,Christopher Kidd,Premium,New Jacob,Michigan,India,Male
+CUST1375,Jason Hale,Regular,Heathershire,Vermont,India,Other
+CUST1376,Kathleen Washington,VIP,South Gregorytown,Utah,India,Other
+CUST1377,Brandon Johnson,Regular,East Gregoryhaven,Illinois,India,Male
+CUST1378,Samantha Villarreal MD,VIP,Gonzalezside,Nevada,India,Male
+CUST1379,Julie Christian,Regular,Emilymouth,Rhode Island,India,Male
+CUST1380,Jeffery Browning,Premium,Bartonchester,Kansas,India,Female
+CUST1381,Molly Mcdonald,Regular,Danielfurt,Alaska,India,Other
+CUST1382,Amber Gregory,Premium,Jonathantown,Minnesota,India,Male
+CUST1383,Derrick Horne,VIP,Port Matthew,Texas,India,Other
+CUST1384,Madison Parker,Premium,West Lisa,Delaware,India,Other
+CUST1385,Angela Rodriguez,Premium,West Christopher,Maryland,India,Other
+CUST1386,John Pierce,Regular,Lake Meaganside,New Hampshire,India,Female
+CUST1387,Amber Parker,Premium,South Vicki,Mississippi,India,Male
+CUST1388,Joseph Brown,VIP,Moorechester,New Jersey,India,Male
+CUST1389,Jeffrey King,Regular,Russellstad,Nevada,India,Female
+CUST1390,Anna Brewer,Regular,Barbaraside,Georgia,India,Male
+CUST1391,Shawn Garcia,Regular,Julieshire,Rhode Island,India,Male
+CUST1392,Amanda Myers,Premium,Leehaven,Texas,India,Female
+CUST1393,Miranda Barnes,Premium,Hollytown,Utah,India,Male
+CUST1394,John Haynes,Regular,Katelynton,Virginia,India,Female
+CUST1395,Antonio Ramirez,VIP,Port Joseborough,New Mexico,India,Female
+CUST1396,Monica Burton,Regular,Butlerhaven,Florida,India,Female
+CUST1397,Evelyn Gross,Premium,North Chrismouth,Kentucky,India,Other
+CUST1398,Joshua Hinton,Premium,Valerieville,Rhode Island,India,Female

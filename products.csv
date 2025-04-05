@@ -1,0 +1,400 @@
+pid,pname,category,subcategory,price,brand
+PROD1000,Father Pro,Electronics,Smartphones,1280.33,BrandB
+PROD1001,Again Max,Electronics,Smartphones,3011.31,BrandX
+PROD1002,Other X,Apparel,Jeans,3167.38,BrandA
+PROD1003,Will Max,Home & Kitchen,Decor,1904.85,BrandY
+PROD1004,Bed X,Electronics,Headphones,2570.65,BrandC
+PROD1005,Century Pro,Apparel,Shirts,1295.64,BrandB
+PROD1006,Even Max,Home & Kitchen,Decor,897.89,BrandA
+PROD1007,Especially Max,Sports,Fitness Gear,2152.63,BrandA
+PROD1008,Including Lite,Sports,Bicycles,3327.29,BrandB
+PROD1009,Development Pro,Home & Kitchen,Decor,1677.27,BrandC
+PROD1010,Game Pro,Apparel,Jackets,3057.94,BrandY
+PROD1011,Fly X,Apparel,Jeans,1794.81,BrandX
+PROD1012,Consider Max,Home & Kitchen,Decor,3327.98,BrandA
+PROD1013,Always Lite,Electronics,Laptops,4889.31,BrandB
+PROD1014,South Max,Apparel,Jackets,2788.98,BrandB
+PROD1015,Stuff Max,Apparel,Jeans,3175.64,BrandX
+PROD1016,To Max,Sports,Fitness Gear,2419.35,BrandC
+PROD1017,Tough Lite,Sports,Footwear,2691.41,BrandB
+PROD1018,Too Max,Sports,Bicycles,1360.14,BrandB
+PROD1019,World Pro,Electronics,Smartphones,4733.61,BrandA
+PROD1020,These Lite,Electronics,Smartphones,2639.61,BrandX
+PROD1021,Happy Lite,Apparel,Shirts,4234.18,BrandY
+PROD1022,Mean X,Electronics,Laptops,3642.2,BrandA
+PROD1023,Ago Lite,Electronics,Headphones,2212.8,BrandA
+PROD1024,Most X,Apparel,Shirts,4630.21,BrandY
+PROD1025,Low X,Sports,Bicycles,4665.51,BrandX
+PROD1026,Yard Lite,Electronics,Laptops,406.17,BrandX
+PROD1027,Season Max,Sports,Fitness Gear,4614.08,BrandC
+PROD1028,Minute Lite,Home & Kitchen,Furniture,1040.45,BrandC
+PROD1029,Summer Max,Electronics,Smartphones,1235.7,BrandX
+PROD1030,Huge X,Sports,Bicycles,1816.07,BrandC
+PROD1031,Air Lite,Electronics,Laptops,1357.14,BrandX
+PROD1032,Man X,Sports,Fitness Gear,701.33,BrandB
+PROD1033,Us X,Apparel,Jackets,4990.28,BrandB
+PROD1034,Several Pro,Home & Kitchen,Decor,987.98,BrandX
+PROD1035,Heart Pro,Home & Kitchen,Decor,734.75,BrandY
+PROD1036,Race Max,Electronics,Headphones,654.0,BrandC
+PROD1037,Simply Lite,Home & Kitchen,Cookware,347.19,BrandA
+PROD1038,Ten Pro,Sports,Fitness Gear,3584.93,BrandC
+PROD1039,Someone X,Home & Kitchen,Decor,3233.83,BrandY
+PROD1040,Moment Pro,Home & Kitchen,Furniture,4477.69,BrandX
+PROD1041,Strong Pro,Sports,Fitness Gear,4670.89,BrandY
+PROD1042,Paper Lite,Home & Kitchen,Furniture,2382.08,BrandC
+PROD1043,Gun Pro,Home & Kitchen,Furniture,4110.74,BrandB
+PROD1044,Customer Lite,Home & Kitchen,Furniture,585.91,BrandA
+PROD1045,Place Pro,Apparel,Jeans,2520.71,BrandY
+PROD1046,Knowledge Lite,Apparel,Jackets,980.9,BrandB
+PROD1047,Service X,Home & Kitchen,Decor,3024.45,BrandX
+PROD1048,Kitchen Lite,Apparel,Shirts,303.19,BrandC
+PROD1049,However Max,Apparel,Shirts,3495.15,BrandY
+PROD1050,Professor Pro,Apparel,Jackets,3640.53,BrandB
+PROD1051,After Max,Home & Kitchen,Decor,1257.8,BrandY
+PROD1052,Team Max,Electronics,Smartphones,4132.82,BrandC
+PROD1053,Support Max,Electronics,Headphones,2642.69,BrandB
+PROD1054,Thought Lite,Sports,Fitness Gear,988.0,BrandC
+PROD1055,Itself Lite,Home & Kitchen,Furniture,2962.9,BrandA
+PROD1056,One X,Apparel,Shirts,4057.9,BrandA
+PROD1057,Think Pro,Home & Kitchen,Cookware,4666.24,BrandY
+PROD1058,Success Pro,Sports,Bicycles,4672.34,BrandC
+PROD1059,Open Pro,Home & Kitchen,Furniture,185.82,BrandY
+PROD1060,In Max,Electronics,Smartphones,138.05,BrandY
+PROD1061,Be Lite,Home & Kitchen,Furniture,2369.42,BrandY
+PROD1062,Machine X,Electronics,Laptops,2998.6,BrandY
+PROD1063,Land X,Apparel,Jeans,4374.64,BrandA
+PROD1064,Environment X,Home & Kitchen,Cookware,1226.68,BrandA
+PROD1065,Serious X,Apparel,Shirts,371.26,BrandY
+PROD1066,Job Max,Apparel,Shirts,3161.11,BrandC
+PROD1067,Message Pro,Electronics,Smartphones,1548.0,BrandX
+PROD1068,Three Lite,Apparel,Jackets,3297.42,BrandX
+PROD1069,Study X,Apparel,Jeans,2646.47,BrandB
+PROD1070,Walk X,Electronics,Smartphones,3095.27,BrandX
+PROD1071,Budget Pro,Apparel,Jackets,4136.23,BrandB
+PROD1072,Man X,Sports,Footwear,638.98,BrandX
+PROD1073,Next Max,Home & Kitchen,Cookware,1056.99,BrandY
+PROD1074,Also Pro,Sports,Fitness Gear,2829.04,BrandB
+PROD1075,Collection X,Apparel,Jeans,1439.25,BrandA
+PROD1076,Theory Max,Sports,Fitness Gear,1766.48,BrandY
+PROD1077,Especially Lite,Apparel,Jackets,3513.83,BrandB
+PROD1078,Eight Pro,Home & Kitchen,Furniture,629.53,BrandC
+PROD1079,Finally Pro,Apparel,Jeans,3883.84,BrandY
+PROD1080,Especially Lite,Home & Kitchen,Decor,4746.45,BrandY
+PROD1081,Walk X,Home & Kitchen,Cookware,597.8,BrandB
+PROD1082,Above X,Apparel,Jackets,4998.32,BrandA
+PROD1083,Skill X,Home & Kitchen,Decor,3175.13,BrandC
+PROD1084,Significant Pro,Home & Kitchen,Cookware,890.02,BrandA
+PROD1085,Enjoy Pro,Apparel,Jackets,4000.47,BrandX
+PROD1086,Close Pro,Sports,Bicycles,3735.88,BrandB
+PROD1087,Five Max,Sports,Bicycles,1901.36,BrandB
+PROD1088,Home Pro,Sports,Footwear,1425.14,BrandA
+PROD1089,Measure X,Sports,Footwear,3815.6,BrandY
+PROD1090,Major X,Home & Kitchen,Cookware,4082.53,BrandX
+PROD1091,Forward Lite,Sports,Fitness Gear,3181.52,BrandB
+PROD1092,Role X,Sports,Footwear,1432.38,BrandA
+PROD1093,Few Max,Electronics,Laptops,2316.59,BrandX
+PROD1094,Bit Max,Apparel,Jeans,4612.35,BrandC
+PROD1095,I X,Sports,Bicycles,3528.4,BrandC
+PROD1096,Southern Pro,Home & Kitchen,Furniture,768.51,BrandA
+PROD1097,Lay X,Home & Kitchen,Cookware,2298.78,BrandY
+PROD1098,Ready X,Home & Kitchen,Furniture,2919.33,BrandC
+PROD1099,Industry X,Sports,Fitness Gear,2722.47,BrandX
+PROD1100,Since Pro,Sports,Bicycles,4248.3,BrandX
+PROD1101,Almost Max,Home & Kitchen,Cookware,4238.19,BrandA
+PROD1102,Wear Max,Home & Kitchen,Furniture,3665.43,BrandC
+PROD1103,Century Pro,Electronics,Smartphones,3839.92,BrandC
+PROD1104,Look X,Sports,Fitness Gear,4235.35,BrandC
+PROD1105,Hard Max,Sports,Bicycles,940.59,BrandA
+PROD1106,Movement Max,Sports,Footwear,3289.57,BrandX
+PROD1107,Act Pro,Apparel,Jackets,213.28,BrandY
+PROD1108,Wall Lite,Electronics,Smartphones,1952.18,BrandX
+PROD1109,Offer X,Home & Kitchen,Cookware,153.63,BrandY
+PROD1110,Chance Lite,Electronics,Headphones,969.58,BrandY
+PROD1111,Total Lite,Electronics,Headphones,2272.26,BrandA
+PROD1112,Put X,Home & Kitchen,Furniture,3030.61,BrandB
+PROD1113,Month Pro,Electronics,Headphones,3137.76,BrandA
+PROD1114,Federal Lite,Sports,Fitness Gear,1014.56,BrandA
+PROD1115,Hold Max,Apparel,Jeans,4099.89,BrandX
+PROD1116,Whatever X,Apparel,Jackets,3680.29,BrandX
+PROD1117,Firm X,Apparel,Shirts,523.99,BrandB
+PROD1118,Third X,Home & Kitchen,Decor,1610.27,BrandY
+PROD1119,Seek Lite,Electronics,Laptops,3124.74,BrandX
+PROD1120,Under Lite,Electronics,Headphones,2533.13,BrandB
+PROD1121,It X,Apparel,Jackets,593.65,BrandX
+PROD1122,Series Max,Sports,Footwear,746.71,BrandA
+PROD1123,Modern Lite,Apparel,Jackets,3264.37,BrandX
+PROD1124,Amount Lite,Home & Kitchen,Cookware,846.77,BrandB
+PROD1125,Side Max,Apparel,Shirts,1403.52,BrandY
+PROD1126,Computer Max,Sports,Footwear,3656.58,BrandA
+PROD1127,Yet Max,Apparel,Jackets,3815.16,BrandA
+PROD1128,Cut Max,Apparel,Jeans,3398.46,BrandB
+PROD1129,Method Max,Sports,Footwear,3442.48,BrandA
+PROD1130,Above X,Home & Kitchen,Furniture,2911.18,BrandX
+PROD1131,Chair Pro,Electronics,Laptops,3150.93,BrandC
+PROD1132,Rate Pro,Apparel,Jeans,1787.58,BrandB
+PROD1133,Student X,Apparel,Jeans,2284.19,BrandX
+PROD1134,Side X,Apparel,Jeans,4754.98,BrandY
+PROD1135,Run X,Sports,Fitness Gear,1802.73,BrandB
+PROD1136,Foreign Pro,Electronics,Laptops,2090.92,BrandC
+PROD1137,Dinner Lite,Electronics,Headphones,2158.43,BrandA
+PROD1138,Win X,Home & Kitchen,Decor,4515.47,BrandC
+PROD1139,Young Pro,Electronics,Smartphones,4044.22,BrandB
+PROD1140,End Pro,Electronics,Smartphones,4287.97,BrandX
+PROD1141,Must X,Apparel,Shirts,4921.14,BrandX
+PROD1142,Figure X,Sports,Footwear,1629.14,BrandX
+PROD1143,Allow Pro,Sports,Bicycles,4835.88,BrandC
+PROD1144,Increase Lite,Electronics,Headphones,4940.14,BrandA
+PROD1145,Trip Pro,Electronics,Headphones,4486.2,BrandA
+PROD1146,Music X,Electronics,Headphones,680.68,BrandY
+PROD1147,Full X,Home & Kitchen,Furniture,1486.89,BrandB
+PROD1148,Dog X,Apparel,Shirts,2521.47,BrandB
+PROD1149,Common Lite,Home & Kitchen,Decor,4314.39,BrandA
+PROD1150,Mention Max,Apparel,Shirts,2795.13,BrandY
+PROD1151,Term Max,Apparel,Jackets,1968.81,BrandC
+PROD1152,Bit Max,Electronics,Laptops,1654.41,BrandC
+PROD1153,None Max,Electronics,Headphones,349.15,BrandY
+PROD1154,Take Max,Home & Kitchen,Decor,2253.5,BrandC
+PROD1155,Small Pro,Electronics,Headphones,1089.53,BrandY
+PROD1156,Win X,Electronics,Headphones,1073.35,BrandB
+PROD1157,Mention X,Electronics,Smartphones,1097.93,BrandY
+PROD1158,Born X,Electronics,Headphones,2141.59,BrandY
+PROD1159,Work Lite,Electronics,Headphones,529.26,BrandY
+PROD1160,Agent Max,Home & Kitchen,Furniture,4249.49,BrandY
+PROD1161,Happy Max,Home & Kitchen,Cookware,3056.8,BrandC
+PROD1162,Image Max,Sports,Footwear,2411.64,BrandX
+PROD1163,Pattern X,Home & Kitchen,Cookware,4814.03,BrandA
+PROD1164,Tree Pro,Sports,Footwear,3327.7,BrandA
+PROD1165,Take X,Electronics,Headphones,2652.65,BrandB
+PROD1166,Similar Pro,Home & Kitchen,Decor,3705.13,BrandY
+PROD1167,Machine X,Home & Kitchen,Decor,3672.54,BrandA
+PROD1168,Trouble X,Electronics,Laptops,909.49,BrandA
+PROD1169,Across Max,Apparel,Jackets,3703.06,BrandY
+PROD1170,Sign Max,Home & Kitchen,Furniture,2089.79,BrandA
+PROD1171,Month Lite,Home & Kitchen,Furniture,3852.38,BrandB
+PROD1172,American Max,Sports,Footwear,4180.46,BrandB
+PROD1173,Rock X,Electronics,Headphones,3403.54,BrandA
+PROD1174,City Pro,Apparel,Shirts,1424.78,BrandC
+PROD1175,Republican X,Apparel,Jeans,647.25,BrandB
+PROD1176,Worry Max,Apparel,Jeans,4478.72,BrandX
+PROD1177,Above X,Sports,Footwear,998.39,BrandA
+PROD1178,Television X,Sports,Bicycles,1925.68,BrandY
+PROD1179,Month Pro,Home & Kitchen,Decor,2173.22,BrandA
+PROD1180,Near Max,Apparel,Jeans,2412.08,BrandB
+PROD1181,Goal Lite,Apparel,Jeans,2881.2,BrandB
+PROD1182,Throw Max,Electronics,Laptops,1230.73,BrandB
+PROD1183,Sense X,Home & Kitchen,Furniture,4585.59,BrandC
+PROD1184,Play X,Home & Kitchen,Cookware,559.17,BrandC
+PROD1185,Move Pro,Apparel,Jeans,1643.89,BrandX
+PROD1186,Provide Pro,Home & Kitchen,Cookware,4452.56,BrandY
+PROD1187,Model Pro,Apparel,Jeans,609.5,BrandB
+PROD1188,Whatever Max,Apparel,Jeans,3086.22,BrandC
+PROD1189,History Lite,Sports,Footwear,131.46,BrandB
+PROD1190,Series Pro,Home & Kitchen,Cookware,4400.47,BrandB
+PROD1191,Network X,Apparel,Shirts,3677.96,BrandX
+PROD1192,I X,Home & Kitchen,Furniture,457.2,BrandC
+PROD1193,Fire Pro,Apparel,Shirts,3246.66,BrandB
+PROD1194,Sense X,Sports,Footwear,2077.73,BrandY
+PROD1195,Commercial Max,Home & Kitchen,Decor,1035.83,BrandY
+PROD1196,Second X,Electronics,Headphones,1727.56,BrandC
+PROD1197,Thousand Pro,Sports,Bicycles,2233.76,BrandX
+PROD1198,Reality Pro,Home & Kitchen,Furniture,3027.52,BrandX
+PROD1199,Work X,Home & Kitchen,Cookware,3386.17,BrandC
+PROD1200,Whom Lite,Sports,Footwear,4407.61,BrandY
+PROD1201,Company Max,Sports,Bicycles,2981.9,BrandX
+PROD1202,Hospital Lite,Home & Kitchen,Decor,975.05,BrandA
+PROD1203,Hope Pro,Sports,Bicycles,281.78,BrandX
+PROD1204,Second Lite,Home & Kitchen,Furniture,496.87,BrandB
+PROD1205,Yourself Lite,Apparel,Jeans,1214.81,BrandC
+PROD1206,Your Pro,Home & Kitchen,Decor,124.65,BrandC
+PROD1207,Card X,Apparel,Jeans,3246.33,BrandB
+PROD1208,Drug Lite,Apparel,Shirts,2298.45,BrandB
+PROD1209,Those X,Home & Kitchen,Cookware,983.14,BrandX
+PROD1210,Employee Lite,Electronics,Headphones,2681.21,BrandX
+PROD1211,Food Pro,Sports,Bicycles,861.25,BrandA
+PROD1212,Participant Pro,Home & Kitchen,Cookware,3457.04,BrandB
+PROD1213,Accept Pro,Electronics,Laptops,4375.1,BrandB
+PROD1214,Military Lite,Electronics,Laptops,3029.0,BrandC
+PROD1215,Miss X,Electronics,Laptops,185.97,BrandC
+PROD1216,For X,Home & Kitchen,Cookware,3945.39,BrandX
+PROD1217,Husband Lite,Electronics,Laptops,4148.06,BrandA
+PROD1218,Mention Pro,Apparel,Jackets,1866.63,BrandC
+PROD1219,Goal Lite,Electronics,Laptops,1862.1,BrandA
+PROD1220,Receive X,Apparel,Jeans,4215.75,BrandB
+PROD1221,Never Max,Electronics,Laptops,3136.64,BrandA
+PROD1222,Wish X,Sports,Fitness Gear,4400.38,BrandX
+PROD1223,Require Pro,Home & Kitchen,Decor,933.56,BrandB
+PROD1224,Picture X,Sports,Footwear,2211.96,BrandC
+PROD1225,Office Pro,Electronics,Laptops,3842.5,BrandY
+PROD1226,Be Pro,Home & Kitchen,Cookware,1158.88,BrandA
+PROD1227,Sure Max,Home & Kitchen,Furniture,4027.56,BrandB
+PROD1228,Pattern Lite,Sports,Fitness Gear,4783.8,BrandX
+PROD1229,Everything Lite,Electronics,Laptops,1690.36,BrandC
+PROD1230,Various Pro,Apparel,Jeans,4082.65,BrandX
+PROD1231,Be Pro,Apparel,Jeans,4182.74,BrandA
+PROD1232,Small Lite,Electronics,Smartphones,2588.74,BrandX
+PROD1233,Director Max,Sports,Bicycles,3925.92,BrandA
+PROD1234,Drop Lite,Electronics,Smartphones,3061.0,BrandB
+PROD1235,Miss X,Electronics,Headphones,2681.91,BrandC
+PROD1236,Well Max,Home & Kitchen,Furniture,4068.07,BrandB
+PROD1237,Husband Pro,Apparel,Jeans,2945.47,BrandC
+PROD1238,Across Max,Apparel,Jackets,4215.91,BrandY
+PROD1239,Language X,Sports,Bicycles,1850.1,BrandC
+PROD1240,Trial X,Home & Kitchen,Cookware,1472.79,BrandX
+PROD1241,Yourself Pro,Apparel,Jackets,3425.63,BrandX
+PROD1242,Cut Lite,Home & Kitchen,Decor,3883.77,BrandB
+PROD1243,Institution Max,Home & Kitchen,Cookware,673.86,BrandB
+PROD1244,Government Max,Sports,Fitness Gear,3136.77,BrandB
+PROD1245,Understand X,Sports,Footwear,4196.38,BrandB
+PROD1246,Religious Pro,Sports,Bicycles,2657.26,BrandX
+PROD1247,Cell Max,Electronics,Laptops,4208.57,BrandB
+PROD1248,Thousand Max,Home & Kitchen,Furniture,2700.94,BrandA
+PROD1249,Care Pro,Apparel,Jackets,4326.81,BrandC
+PROD1250,Although Max,Sports,Footwear,789.7,BrandX
+PROD1251,Still X,Sports,Bicycles,4649.65,BrandA
+PROD1252,None Max,Home & Kitchen,Decor,3539.19,BrandA
+PROD1253,Director Pro,Electronics,Laptops,1155.02,BrandC
+PROD1254,College Lite,Electronics,Laptops,3612.68,BrandB
+PROD1255,Product Pro,Home & Kitchen,Furniture,1571.37,BrandA
+PROD1256,Despite X,Home & Kitchen,Decor,2665.09,BrandY
+PROD1257,Would Max,Sports,Footwear,3531.69,BrandA
+PROD1258,Future X,Electronics,Smartphones,3959.96,BrandY
+PROD1259,Give Pro,Apparel,Shirts,2256.9,BrandB
+PROD1260,Range Lite,Sports,Fitness Gear,3824.78,BrandC
+PROD1261,Child Lite,Sports,Fitness Gear,2580.39,BrandC
+PROD1262,Fight Lite,Apparel,Shirts,3887.98,BrandX
+PROD1263,Sister Pro,Home & Kitchen,Decor,2487.11,BrandB
+PROD1264,Worry Max,Sports,Fitness Gear,742.66,BrandY
+PROD1265,Pretty X,Sports,Footwear,1091.22,BrandA
+PROD1266,Challenge Pro,Electronics,Laptops,3657.54,BrandC
+PROD1267,Kind X,Apparel,Shirts,416.45,BrandA
+PROD1268,Degree X,Sports,Footwear,4504.94,BrandB
+PROD1269,Join X,Home & Kitchen,Cookware,4255.12,BrandB
+PROD1270,Garden Lite,Home & Kitchen,Decor,2101.21,BrandB
+PROD1271,Record Lite,Apparel,Shirts,1660.41,BrandA
+PROD1272,People X,Electronics,Headphones,1214.3,BrandX
+PROD1273,Hit Lite,Home & Kitchen,Cookware,4531.25,BrandB
+PROD1274,Public Max,Sports,Fitness Gear,833.45,BrandY
+PROD1275,Also Lite,Home & Kitchen,Furniture,3518.04,BrandB
+PROD1276,Foot X,Electronics,Headphones,2258.8,BrandC
+PROD1277,Minute Max,Electronics,Headphones,187.87,BrandX
+PROD1278,Beautiful X,Apparel,Jeans,3759.23,BrandA
+PROD1279,System Max,Apparel,Jackets,2919.83,BrandB
+PROD1280,See Pro,Home & Kitchen,Decor,3322.0,BrandA
+PROD1281,Member Pro,Apparel,Jackets,2189.11,BrandX
+PROD1282,Close Pro,Apparel,Shirts,3509.71,BrandC
+PROD1283,Stop Lite,Sports,Bicycles,3499.19,BrandY
+PROD1284,Ball Lite,Home & Kitchen,Cookware,1193.04,BrandB
+PROD1285,Set Lite,Apparel,Jeans,1310.22,BrandC
+PROD1286,Agency Pro,Sports,Footwear,1297.97,BrandA
+PROD1287,Community Pro,Apparel,Jeans,593.77,BrandA
+PROD1288,Main Pro,Home & Kitchen,Furniture,2110.05,BrandB
+PROD1289,Everyone Lite,Sports,Footwear,2446.41,BrandX
+PROD1290,Decision Lite,Electronics,Laptops,3688.37,BrandB
+PROD1291,Ever Lite,Apparel,Shirts,2709.06,BrandX
+PROD1292,Goal Pro,Electronics,Headphones,852.86,BrandB
+PROD1293,Hard Lite,Electronics,Headphones,2465.89,BrandC
+PROD1294,Yes Lite,Apparel,Shirts,1602.81,BrandY
+PROD1295,Edge Max,Apparel,Shirts,4822.46,BrandB
+PROD1296,Blood Lite,Electronics,Headphones,2520.47,BrandB
+PROD1297,Require Pro,Home & Kitchen,Decor,1471.17,BrandA
+PROD1298,Stock Lite,Home & Kitchen,Furniture,2317.06,BrandC
+PROD1299,Piece Pro,Sports,Fitness Gear,3016.24,BrandY
+PROD1300,Heart X,Home & Kitchen,Decor,831.4,BrandA
+PROD1301,Major Lite,Sports,Fitness Gear,270.22,BrandC
+PROD1302,Administration X,Sports,Fitness Gear,2254.91,BrandA
+PROD1303,Our Max,Sports,Fitness Gear,978.08,BrandC
+PROD1304,Dog Pro,Electronics,Headphones,3055.5,BrandY
+PROD1305,Second Lite,Electronics,Headphones,4629.37,BrandY
+PROD1306,Place Lite,Home & Kitchen,Cookware,2733.34,BrandX
+PROD1307,Since X,Apparel,Jackets,2603.56,BrandA
+PROD1308,Politics Pro,Sports,Footwear,1080.61,BrandC
+PROD1309,From X,Sports,Bicycles,1229.94,BrandX
+PROD1310,Media Pro,Sports,Footwear,2500.93,BrandX
+PROD1311,Church X,Sports,Footwear,3630.45,BrandA
+PROD1312,That Max,Apparel,Shirts,3046.63,BrandA
+PROD1313,Parent Lite,Home & Kitchen,Decor,1734.38,BrandY
+PROD1314,Risk Pro,Sports,Bicycles,3896.73,BrandY
+PROD1315,Security Pro,Sports,Fitness Gear,4197.37,BrandA
+PROD1316,Yes Lite,Home & Kitchen,Decor,1262.18,BrandC
+PROD1317,Personal Max,Apparel,Jackets,228.8,BrandC
+PROD1318,Million Max,Electronics,Smartphones,2894.31,BrandC
+PROD1319,Experience Max,Home & Kitchen,Decor,1589.69,BrandA
+PROD1320,Protect Max,Home & Kitchen,Furniture,3926.69,BrandX
+PROD1321,Us X,Apparel,Jeans,3879.26,BrandA
+PROD1322,Quite Lite,Sports,Fitness Gear,4483.26,BrandB
+PROD1323,Pay X,Home & Kitchen,Decor,1762.14,BrandB
+PROD1324,Speech Lite,Electronics,Headphones,4077.04,BrandA
+PROD1325,Determine X,Electronics,Smartphones,4926.89,BrandC
+PROD1326,Herself Pro,Apparel,Jeans,360.38,BrandY
+PROD1327,In Lite,Apparel,Jackets,3278.52,BrandB
+PROD1328,Past Pro,Home & Kitchen,Cookware,148.93,BrandC
+PROD1329,Here Max,Home & Kitchen,Decor,4085.43,BrandX
+PROD1330,Artist X,Sports,Bicycles,3493.92,BrandX
+PROD1331,Range X,Sports,Fitness Gear,4913.09,BrandB
+PROD1332,Plant X,Electronics,Smartphones,2740.42,BrandA
+PROD1333,There Pro,Home & Kitchen,Furniture,2416.53,BrandX
+PROD1334,Travel Lite,Electronics,Headphones,1905.94,BrandA
+PROD1335,Keep Lite,Home & Kitchen,Furniture,1329.15,BrandC
+PROD1336,Off X,Apparel,Jackets,3082.04,BrandA
+PROD1337,Human Lite,Electronics,Laptops,3562.78,BrandA
+PROD1338,Law Lite,Electronics,Laptops,3214.41,BrandA
+PROD1339,Day X,Apparel,Shirts,2452.83,BrandC
+PROD1340,Rise X,Home & Kitchen,Decor,4009.13,BrandB
+PROD1341,Key Max,Electronics,Headphones,3228.41,BrandX
+PROD1342,Personal Lite,Electronics,Laptops,3821.06,BrandY
+PROD1343,Service Pro,Electronics,Laptops,1770.39,BrandX
+PROD1344,Weight X,Home & Kitchen,Decor,2928.7,BrandX
+PROD1345,Sure Lite,Electronics,Smartphones,562.6,BrandY
+PROD1346,Seat Pro,Sports,Fitness Gear,1856.3,BrandB
+PROD1347,Husband Pro,Apparel,Jeans,605.05,BrandB
+PROD1348,Because X,Home & Kitchen,Cookware,3875.71,BrandC
+PROD1349,Light Max,Sports,Footwear,1311.29,BrandA
+PROD1350,Blue Lite,Sports,Footwear,3570.45,BrandA
+PROD1351,Customer X,Electronics,Headphones,792.32,BrandX
+PROD1352,Some Pro,Sports,Fitness Gear,2851.45,BrandC
+PROD1353,Throughout Max,Home & Kitchen,Decor,709.32,BrandA
+PROD1354,Whom X,Electronics,Laptops,3316.92,BrandX
+PROD1355,Without Max,Home & Kitchen,Furniture,4091.73,BrandX
+PROD1356,Make X,Home & Kitchen,Furniture,4658.71,BrandB
+PROD1357,The Max,Electronics,Laptops,1754.72,BrandC
+PROD1358,Modern Lite,Sports,Fitness Gear,2980.62,BrandY
+PROD1359,Usually Max,Electronics,Laptops,2794.9,BrandX
+PROD1360,Enjoy Pro,Apparel,Shirts,4264.97,BrandX
+PROD1361,By X,Sports,Footwear,2524.38,BrandA
+PROD1362,Trouble Max,Sports,Bicycles,3900.6,BrandA
+PROD1363,How Lite,Sports,Bicycles,3937.85,BrandC
+PROD1364,Painting Max,Apparel,Shirts,3571.7,BrandX
+PROD1365,Interesting X,Electronics,Headphones,4486.68,BrandA
+PROD1366,Member X,Sports,Fitness Gear,2180.5,BrandA
+PROD1367,Upon Pro,Sports,Footwear,1901.78,BrandX
+PROD1368,World X,Apparel,Shirts,4226.82,BrandY
+PROD1369,Concern Max,Electronics,Laptops,3044.28,BrandB
+PROD1370,Able Max,Electronics,Headphones,2826.9,BrandA
+PROD1371,Gun Max,Sports,Bicycles,188.32,BrandX
+PROD1372,Individual Lite,Sports,Bicycles,2558.18,BrandX
+PROD1373,We Lite,Electronics,Smartphones,2247.32,BrandB
+PROD1374,Site Max,Sports,Footwear,885.38,BrandX
+PROD1375,Business Lite,Electronics,Headphones,4770.03,BrandX
+PROD1376,Office X,Electronics,Smartphones,4621.3,BrandB
+PROD1377,Huge Pro,Home & Kitchen,Furniture,1994.19,BrandC
+PROD1378,Product Lite,Sports,Bicycles,933.14,BrandX
+PROD1379,Age Pro,Home & Kitchen,Furniture,4083.74,BrandX
+PROD1380,She Lite,Home & Kitchen,Furniture,3296.45,BrandY
+PROD1381,Watch Pro,Sports,Bicycles,856.12,BrandX
+PROD1382,Study Lite,Apparel,Shirts,3765.65,BrandA
+PROD1383,Government Pro,Sports,Fitness Gear,136.1,BrandY
+PROD1384,Stand Max,Electronics,Headphones,3040.06,BrandC
+PROD1385,Hope Pro,Sports,Fitness Gear,3380.86,BrandC
+PROD1386,Doctor X,Home & Kitchen,Cookware,3089.3,BrandA
+PROD1387,Born Max,Home & Kitchen,Cookware,2341.58,BrandC
+PROD1388,Cover Lite,Electronics,Laptops,3221.39,BrandX
+PROD1389,Bill Max,Sports,Footwear,2798.71,BrandB
+PROD1390,Nothing Pro,Sports,Bicycles,3159.58,BrandX
+PROD1391,Away X,Apparel,Jackets,359.23,BrandB
+PROD1392,Nice Lite,Home & Kitchen,Decor,847.97,BrandY
+PROD1393,Model Pro,Sports,Footwear,225.77,BrandY
+PROD1394,Expert X,Home & Kitchen,Furniture,3652.06,BrandY
+PROD1395,Play Lite,Apparel,Jackets,4163.93,BrandX
+PROD1396,Although X,Electronics,Headphones,4594.36,BrandX
+PROD1397,Inside Lite,Electronics,Laptops,1151.36,BrandC
+PROD1398,Perhaps Max,Electronics,Laptops,1228.5,BrandA
