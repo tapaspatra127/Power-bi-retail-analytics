@@ -1,20 +1,34 @@
-# Retail Analytics Dashboard (Power BI)
+# 📊 Power BI Retail Analytics Project
 
-This project analyzes customer behavior, product performance, and sales trends using Power BI.
+This Power BI project focuses on analyzing retail performance using dynamic dashboards, enabling better business decision-making across customer behavior, sales trends, and product performance.
 
-## 📊 Features
-- Sales analysis by region
-- Product category performance
-- Customer segmentation using RFM
-- Region-wise sales comparison
+## 🔍 Key Dashboards
 
-## 🛠️ Tools Used
-- Power BI
-- Microsoft Excel (for data cleaning)
-- DAX (Data Analysis Expressions)
+- 🧑‍🤝‍🧑 Customer Segmentation Analysis  
+- 📦 Product Sales & Category Performance  
+- 🌍 Sales by Region & Growth Trends  
+- 📈 Region-wise Performance Comparison  
 
-## 📁 Files
-- `poject data.pbix` – Power BI report
-- `CustomerData.xlsx` – Sample dataset
-- `DashboardPreview.png` – Dashboard screenshot
-- `RetailReport.pdf` – Summary report
+## 📁 Repository Structure
+
+- `PowerBI_Dashboards/`: Power BI `.pbix` dashboard files
+- `Datasets/`: Cleaned CSV/Excel files used in the project
+- `Assets/`: Screenshots of dashboards and charts (optional)
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- Excel / CSV
+- Git & GitHub
+
+## 🚀 How to Use
+
+1. Download or clone this repository
+2. Open `Retail_Analytics_Dashboard.pbix` in Power BI Desktop
+3. Connect datasets if needed (located in `/Datasets`)
+4. Explore visuals and insights!
+
+## 👨‍💻 Author
+
+Made by **Tapas** – 8th Semester Retail Analytics Project  
+*Built with ❤️ to explore real-world business intelligence solutions*
